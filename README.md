@@ -1,5 +1,4 @@
 # "The Sierpinski triangle and Mandelbrot"
 <h3>Triangle</h3>
-![](images/Sierpinsk.PNG)
-
-
+<img src="img/Sierpinsk.PNG">
+<h3>Mandelbrot</h3>
