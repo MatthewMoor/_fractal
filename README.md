@@ -3,3 +3,5 @@
 <img src="img/Sierpinsk.PNG">
 <h3>Mandelbrot</h3>
 <img src="img/mandel.PNG">
+<h3>Fractal Treet</h3>
+<img src="img/tree.PNG">
