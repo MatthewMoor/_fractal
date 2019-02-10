@@ -2,6 +2,7 @@ import turtle as tr
 
 def triangle(points, myTurtle):
     # draws a triangle
+    myTurtle.speed(100)
     myTurtle.up()
     myTurtle.goto(points[0][0], points[0][1])
     myTurtle.down()
@@ -30,7 +31,7 @@ def main():
     myWin = tr.Screen()
     points = [[0, 0], [-230, -300], [230, -300]]
     # deeper
-    degree = 5
+    degree = 7
     sierpinski(points, degree, myTurtle)
     myWin.exitonclick()
 main()
